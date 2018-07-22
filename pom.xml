@@ -14,9 +14,9 @@
     </parent>
     <distributionManagement>
     <repository>
-    <id>nexus<id>
-    <url>http://localhost:8081/repository/maven-snapshots/<url>
-    <distributionManagement>
+    <id>nexus</id>
+    <url>http://localhost:8081/repository/maven-snapshots/</url>
+    </distributionManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
