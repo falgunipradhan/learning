@@ -13,10 +13,10 @@
         <version>1.5.8.RELEASE</version>
     </parent>
     <distributionManagement>
-    <repository>
+    <snapshotRepository>
     <id>nexus</id>
     <url>http://localhost:8081/repository/maven-snapshots/</url>
-        </repository>
+        </snapshotRepository>
     </distributionManagement>
     <dependencies>
         <dependency>
